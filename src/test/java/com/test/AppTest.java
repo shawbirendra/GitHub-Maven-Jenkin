@@ -1,4 +1,4 @@
-package com.pricingportal.automation.runner.TestJenkin;
+package com.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
